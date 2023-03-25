@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osobalclzd
+- 👋 Hi, I’m @elziye
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on a every cyber project
